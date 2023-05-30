@@ -1,7 +1,7 @@
 local darcula = {
 
     white =             '#f2f2f2',
-    gray =              '#cccccc',
+    gray =              '#22222A',
     black =             '#0c0c0c',
     red =               '#c50f1f',
     green =             '#13a10e',
