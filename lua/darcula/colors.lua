@@ -18,9 +18,9 @@ local darcula = {
     purple_lighter =    '#b4009e',
     dark_green =        '#364135',
 
-    bg =                '#2b2b2b',
-    bg_alt_1 =          '#303030',
-    bg_alt_2 =          '#3a3a3a',
+    bg =                '#22222A',
+    bg_alt_1 =          '#1f1f1f',
+    bg_alt_2 =          '#141414',
     fg =                '#a9b7c6',
     text =              '#bbbbbb',
     string =            '#6a8759',
